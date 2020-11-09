@@ -31,8 +31,8 @@ categories:
 
 {{< mybrline1 color="blue" >}}
 
-{{< mydiv4o link="https://hk2010.chinadsf.org/"   text="hk2010   2020年10月的新聞0" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2010a.chinadsf.org/"  text="hk2010a  2020年10月的新聞a" >}}
+{{< mydiv4o link="https://hk2010.chinadsf.org/"   text="hk2010   2020年10月的新聞0" >}}
+{{< mydiv4o link="https://hk2010a.chinadsf.org/"  text="hk2010a  2020年10月的新聞a" bg="lightsteelblue" >}}
 
 {{< mybrline1 color="blue" >}}
 
